@@ -10,3 +10,4 @@ You can learn more about me by reading my [resume](./docs/resume.md).
 
 - [Qantas Holidays](./docs/portfolio-qantas-holidays.md)
 - [EstimateOne](./docs/portfolio-estimateone.md)
+- [Statistics New Zealand](./docs/portfolio-statsnz.md)

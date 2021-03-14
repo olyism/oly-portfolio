@@ -1,6 +1,8 @@
 # Swinburne
 
-Blockchain COVID-19 app proof of concept
+End-to-end quality assurance for COVID-19 vaccines with blockchain
+
+![UI designs for the COVID-19 vaccine tracker web app for vaccine recipients, which assures the customer with official description and end-to-end timeline from production to delivery](../images/swinburne-covid19-iphone.jpg)
 
 ## Project overview
 
@@ -12,7 +14,7 @@ UX discovery kick-off and UI design.
 
 ### Team structure
 
-Swinburne researchers and UX consultant (me)
+Swinburne blockchain researchers and UX consultant (me)
 
 ## Understanding the objective
 
@@ -24,6 +26,8 @@ I kicked off the project with Swinburne's lead researcher to understand the proj
 I also consulted with the researchers to guide me to high-level materials to help me better understand the subject matter and benchmark with other organisations who have solved the same problem.
 
 ## Identifying the users' needs
+
+![Visual of the four main proto-personas — manufacturer, distributor, medical staff and the vaccine recipient](../images/swinburne-covid19-proto-personas.jpg)
 
 As a starting point, we kicked off the design discovery with hypothesized proto-personas based on the researchers' current domain knowledge. I synthesized their insights into four proto-personas:
 
@@ -53,17 +57,25 @@ As a starting point, we kicked off the design discovery with hypothesized proto-
 
 ## Ideate for big ideas
 
+![Remote board with How-Might-We challenge statements and big wild ideas to inspire creative solutions](../images/swinburne-covid19-big-ideas.jpg)
+
 After gathering user and industry insights, the next step was to come up with the big ideas. I start with some high level How-Might-We's, and then came up with ambitious Big Idea solutions to inspire the UX.
 
 ## Mapping out the user flows
+
+![A very simple user flow to map out the medical staff's required tasks from receiving to administering the vaccines](../images/swinburne-covid19-journey.jpg)
 
 I started low fidelity and sketch out very high level user journey flow first. These flows map out the critical tasks each persona must perform so I know what the UX solution should focus on.
 
 ## Mid-fidelity UI designs
 
+![A work-in-progress screen of the vaccine manufacturer's view. It uses a data table UI which can expose more information as well as a familiar interface.](../images/swinburne-covid19-manufacturer-view.jpg)
+
 I designed different UIs based on each persona's context. For manufacturers and distributors, my assumption was they will be mainly working in laboratory and office environments sorting through complex data, therefore I designed for large screen web applications. I skipped wireframing and went straight for mid-fidelity design as the research team and I both have enough shared knowledge to skip low-fidelity.
 
 The web application interface displays the logistic content in a data table. This allows the users to easily view, sort or filter the data to find the desired data on the vaccines. Users could also use the global search to find data via unique ID or other parametres such as owner, location and so forth.
+
+![Screenshot of the medical staff's interface. A secure QR code is used to access the web app, I believe this is the best first entry point f or medical staff as they're always on the move and it removes the need to download and install a native app](../images/swinburne-covid19-medical-staff.jpg)
 
 On the other hand, hospital staff and the general public are constantly moving between different locations. Secondly, I felt making these users use a new native app creates a barrier to entry as well as increases development costs. Therefore, I decided to provide the UX with mobile first responsive web apps and QR codes as the entry point.
 
@@ -75,9 +87,11 @@ The vaccine recipients can also easily scan the QR code to launch the web app to
 
 This project is work-in-progress. At the time of writing, the UX designs are currently being reviewed by Swinburne's research team and we expect more discovery and revisions are required. In the mean time, it has sufficient details to unblock the research to continue.
 
-## Other projects
+## Links
 
-I've been working with Swinburne's blockchain research team on many projects. The COVID-19 app is the most extensive one so far. I've also provided links to other smaller design projects below:
+You can view the [COVID-19 UX design here](https://www.figma.com/file/FB8taUpTIyu7PAazM6t7GV/COVID-19-supply-chain?node-id=1%3A9245).
+
+I've been working with Swinburne's blockchain research team on many projects. You can browse other projects via the links below:
 
 - [DBS fintech hackathon](https://www.figma.com/file/NTiE7pfOHt758TlDVauN1I/Hackathon)
 - [Shipping fresh lobsters globally on the blockchain](https://www.figma.com/file/bKIoc8PJnS5SCzGcgsImUQA2/Lobster?node-id=0%3A1)

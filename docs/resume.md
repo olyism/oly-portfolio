@@ -2,7 +2,7 @@
 
 ## Oly Su — Product designer and developer
 
-I'm a multidisciplinary product designer with experience leading end-to-end product development, closely embedded within discovery, delivery and post-release experimentation. I have worked across different sectors including startups, enterprise, government and eCommerce.
+I'm a multidisciplinary product designer and developer with end-to-end product design capabilities, design system integration and web application development. I have worked with many organisations across product, enterprise, government and eCommerce.
 
 ## Experience overview
 
@@ -141,4 +141,5 @@ Available upon request.
   - Phone: [+61 431 842 782](tel:+61431842782)
   - Email: [taiya1229@gmail.com](mailto:taiya1229@gmail.com)
   - LinkedIn: [https://www.linkedin.com/in/olysu/](https://www.linkedin.com/in/olysu/)
+- Languages: English and Chinese (native)
 - Interests/causes: cooking, reading, Effective Altruism

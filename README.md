@@ -12,3 +12,4 @@ You can learn more about me by reading my [resume](./docs/resume.md).
 - [EstimateOne](./docs/portfolio-estimateone.md)
 - [Statistics New Zealand](./docs/portfolio-statsnz.md)
 - [WestpacNZ](./docs/portfolio-westpacnz.md)
+- [Swinburne University blockchain app designs](./docs/portfolio-swinburne.md)

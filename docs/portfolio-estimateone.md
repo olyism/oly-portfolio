@@ -2,6 +2,8 @@
 
 Scaling a startup and innovating the construction industry
 
+![EstimateOne's marketing website](../images/estimateone-marketing-page.jpg)
+
 ## Product background
 
  I worked across all product teams to gain in-depth domain knowledge and designed complex interactions between different user groups' interests to improve the efficiency and reliability of commercial construction operations. I advocated design practices during EstimateOne’s growth and adoption of product methodologies to evolve from a startup to a scaling product company.
@@ -31,15 +33,21 @@ EstimateOne’s builder clients wants to increase the number of subcontractors t
 
 ### Invalidating the builders' assumption
 
+![Affinity clustering of user testing findings](../images/estimateone-builder-research.jpg)
+
 We met with estimators from small to large construction companies to chat about their context and then observed how they use EstimateOne. Collectively, we found an interesting workaround they do to attach a ‘scope of work’ document and every builder adamantly believed personalising their quote invitations will increase their response rate.
 
 My curiosity led me to conduct interviews with the subcontractors to hear the other side of the story. Contrary to the builders’ assumption, subcontractors are more willing to work with a builder if they pay on time and are easy to work with, so personalising invite won’t make them more appealing. They are also too time-poor to read the ‘scope of work’.
 
 ### Ideating with sketch workshops
 
+![One of the ideas created from our sketch workshop with dot votes](../images/estimateone-sketch.jpg)
+
 We synthesised the customer interviews and presented our learnings to the wider teams. We falsified the biggest misconceptions around personalisation and scope of work. After informing the team with insights, we collaborated with a sketch workshop to ideate. The sketching became a regular practice to kick-off new feature designs.
 
 ### From idea to delivery
+
+![The no-login subcontractor tender page is one of the features designed and built from customer research insights.](../images/estimateone-tender.jpg)
 
 We built several features from the sketches. One of the most interesting experiment we build was tender pages for non-member subcontractors. This helped with the builders’ objective to increase quotes, by increasing their tenders’ exposure and lowering the barrier of entry for subcontractors to participate. It also allowed us to further study the subcontractors’ behaviour to help inspire future features.
 
@@ -61,8 +69,12 @@ We used many different research methods, from simple desktop research (going thr
 
 ### From ideation to low fidelity concept
 
+![A wireframe showing an interface with valuable data for suppliers](../images/estimateone-supplier-wireframe.jpg)
+
 After sharing customer insights with the team I set up design workshops to brainstorm, prioritise and sketch ideas. Then I reviewed all the ideas with the product manager to put together the low fidelity design.
 
 ### Designing and building a new search paradigm
+
+![UI design of a simplied search. Suppliers have very distinct behaviour compared to subcontractors and builders, where they often have very specific brands, projects or individuals' names they want to look up to build leads](../images/estimateone-supplier-search.jpg)
 
 We built many improvements to slowly iterate the Supplier product forward. One of the main work-in-progress feature was shifting the user experience from browsing tables of leads to a dashboard pattern, which opens opportunities to prioritise search, push notification and personalisation.

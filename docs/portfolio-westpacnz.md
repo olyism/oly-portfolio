@@ -2,6 +2,8 @@
 
 Redesigning the largest web and brand re-design in the country
 
+![The third major version of Westpac NZ's website rebuild. At the time of writing this portfolio page, the current site would have evolved to a new brand.](../images/westpacnz-homepage.jpg)
+
 ## Project overview
 
 Westpac New Zealand wanted to the leader in the Australasian banking industry and provide their customers with outstanding online banking experience. The new website needed to align with their new brand and support customers with interactive features across different devices.
@@ -22,6 +24,8 @@ Westpac New Zealand wanted to the leader in the Australasian banking industry an
 - Westpac NZ: Product owner, content authors, senior stakeholders
 
 ## Going responsive, one page template at a time
+
+![A screenshot of the small screen view of a top level landing page, typically seen on iPad portrait](../images/westpacnz-screen-sm.jpg)
 
 When I first joined SilverStripe, Westpac was in their second iteration of web frontend re-build. They wanted to improve the website on mobile and the first solution that was built was an adaptive mobile theme. Whilst it did manage to render a different view for mobile users, it created a larger codebase to manage and the Javascript file size to trigger this effect was very large.
 
@@ -49,6 +53,8 @@ The re-design launch was a success, the unique visits on the increased by 30% an
 
 ## Engaging web applications with AngularJS
 
+![The credit card application app for non-Westpac customers. One of the key acquisition processes that we've brought online.](../images/westpacnz-credit-card-application.jpg)
+
 Many of Westpac's engagements with customers was done in-person at their branches and applications were done through paper forms. We helped Westpac to create interactive web applications to allow customers to easily browse and compare their products, as well as digitised many pages of application forms into online forms.
 
 We kicked-off the projects with the product owner to better understand their business objectives and current process. Then we looked into how we could mirror the current physical experience that customers were familiar with and used the wizard pattern to build the online UX. 
@@ -64,3 +70,7 @@ Our team worked in Scrum, Westpac was accustomed to waterfall but were eager to 
 To overcome ambiguity, we kicked off new projects with the stakeholders by first understanding their business objectives. Whilst the agencies' work are still in progress, I would get in touch with the design agencies to get across their work-in-progress, understand the high-level UX and compile the MVP requirements to take back to the team to start working on. Common examples of these work were frontend framework set up, responsive design behaviour, UX edge cases and 'unhappy paths'. This was high valuable to the stakeholders and allowed us to ship to production a lot faster as well as meeting hard deadlines.
 
 We also supported Westpac with non-delivery activities such as hackdays and Agile talks. During one of the hackdays, we invited all the key stakeholders to our office and helped them build a prototype for a new product in one day. I worked closely with the subject matter experts to quickly gather their business insights, sketched out a simple user flow and built a working end-to-end application and presented the work at the end of the day. We were applauded for our efforts, as the stakeholders would see their vision in a living prototype and we also got the go ahead to later build the actual product.
+
+# Links
+
+- [Online credit card application](https://bank.westpac.co.nz/wone/app.html#select-credit-card-public)

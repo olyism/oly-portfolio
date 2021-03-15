@@ -1,4 +1,5 @@
 ---
+title: Oly's resume
 description: My work experience
 filename: resume.md
 ---

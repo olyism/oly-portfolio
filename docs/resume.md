@@ -1,9 +1,7 @@
 ---
-description: My resume
+description: My work experience
 filename: resume.md
 ---
-
-# Resume
 
 ## Oly Su — Product designer and developer
 

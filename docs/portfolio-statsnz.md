@@ -1,8 +1,11 @@
-# Statistics New Zealand
+---
+description: My work / Stats New Zealand
+filename: portfolio-statsnz.md
+---
 
-Reinventing the statistics user experience
+# Reinventing Stats NZ's official data user experience
 
-![Statistics New Zealand's homepage](../images/statsnz-homepage.jpg)
+![Stats NZ's homepage](../images/statsnz-homepage.jpg)
 
 ## Product overview
 

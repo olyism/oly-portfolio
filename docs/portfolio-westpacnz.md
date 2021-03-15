@@ -1,6 +1,9 @@
-# Westpac NZ
+---
+description: My work / WestpacNZ
+filename: portfolio-westpacnz.md
+---
 
-Redesigning the largest web and brand re-design in the country
+# Redesigning the largest web and brand re-design in the country
 
 ![The third major version of Westpac NZ's website rebuild. At the time of writing this portfolio page, the current site would have evolved to a new brand.](../images/westpacnz-homepage.jpg)
 

@@ -1,6 +1,9 @@
-# Qantas Holidays
+---
+description: My work / Qantas Holidays
+filename: portfolio-qantas-holidays.md
+---
 
-Launching the new Qantas Holidays product from Concierge MVPs to the end-to-end booking flow
+# Launching the new Qantas Holidays product from Concierge MVPs to the end-to-end booking flow
 
 ![A work-in-progress Qantas Holidays campaign page](../images/qantas-holidays-package-page.jpg)
 

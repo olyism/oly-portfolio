@@ -1,6 +1,9 @@
-# EstimateOne
+---
+description: My work / EstimateOne
+filename: portfolio-estimateone.md
+---
 
-Scaling a startup and innovating the construction industry
+# Scaling a startup and innovating the construction industry
 
 ![EstimateOne's marketing website](../images/estimateone-marketing-page.jpg)
 

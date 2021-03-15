@@ -1,15 +1,9 @@
 # Oly Su's portfolio
 
-Hello, world 👋! This is Oly Su's product designer portfolio.
+Hello, world 👋! This is the repo for Oly Su's product designer portfolio. 
 
-I'm a multidisciplinary product designer and developer with end-to-end experience from discovery to delivery. I've worked in a wide range of products across startup, enterprise, government, opensource and eCommerce.
+Creating portfolios is a massive task for designers. Due to time constraints I've set up my 'MVP' portfolio as GitHub pages for now. You can access the current portfolio and content at [https://olyism.github.io/oly-portfolio](https://olyism.github.io/oly-portfolio).
 
-You can learn more about me by reading my [resume](./docs/resume.md).
+All the content are currently created with markdown in the [`docs`](https://github.com/olyism/oly-portfolio/tree/main/docs) folder.
 
-## My work
-
-- [Qantas Holidays](./docs/portfolio-qantas-holidays.md) — launching and reviving a strong brand in the highly competitive OTA market
-- [EstimateOne](./docs/portfolio-estimateone.md) — innovating the construction industry
-- [Statistics New Zealand](./docs/portfolio-statsnz.md) — replatform and redesign the way millions interact with statistics 
-- [WestpacNZ](./docs/portfolio-westpacnz.md) — digitizing banking experience for the largest web redesign in the country
-- [Swinburne University](./docs/portfolio-swinburne.md) — provide the UX vision for blockchain innovations
+The next major release will feature a more usable and aesthetic frontend UI (track the progress on the [project page](https://github.com/olyism/oly-portfolio/projects/1)).

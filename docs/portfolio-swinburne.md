@@ -1,6 +1,9 @@
-# Swinburne
+---
+description: My work / Swinburne University
+filename: portfolio-swinburne.md
+---
 
-End-to-end quality assurance for COVID-19 vaccines with blockchain
+# End-to-end quality assurance for COVID-19 vaccines with blockchain
 
 ![UI designs for the COVID-19 vaccine tracker web app for vaccine recipients, which assures the customer with official description and end-to-end timeline from production to delivery](../images/swinburne-covid19-iphone.jpg)
 

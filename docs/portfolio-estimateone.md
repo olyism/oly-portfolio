@@ -1,5 +1,6 @@
 ---
 description: My work / EstimateOne
+layout: default
 filename: portfolio-estimateone.md
 ---
 

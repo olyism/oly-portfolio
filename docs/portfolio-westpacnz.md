@@ -1,5 +1,6 @@
 ---
 description: My work / WestpacNZ
+layout: default
 filename: portfolio-westpacnz.md
 ---
 

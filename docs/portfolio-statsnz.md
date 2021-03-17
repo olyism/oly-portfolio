@@ -1,5 +1,6 @@
 ---
 description: My work / Stats New Zealand
+layout: default
 filename: portfolio-statsnz.md
 ---
 

@@ -1,5 +1,6 @@
 ---
 description: My work / Swinburne University
+layout: default
 filename: portfolio-swinburne.md
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Oly's portfolio
+layout: default
 filename: index.md
 ---
 

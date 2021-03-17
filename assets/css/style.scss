@@ -1,4 +1,20 @@
 ---
 ---
 
-@import "bulma";
+/*! bulma.io v0.9.1 | MIT License | github.com/jgthms/bulma */
+@import "bulma/utilities/_all";
+@import "./utilities/initial-variables";
+
+@import "bulma/base/_all";
+@import "bulma/elements/_all";
+// @import "bulma/form/_all";
+//@import "bulma/components/_all";
+@import "bulma/components/navbar";
+@import "bulma/grid/_all";
+@import "bulma/helpers/_all";
+@import "bulma/layout/_all";
+
+/* Local styles */
+@import "components/article";
+@import "components/main";
+

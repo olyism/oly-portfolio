@@ -1,6 +1,7 @@
 ---
 title: Oly's resume
 description: My work experience
+layout: default
 filename: resume.md
 ---
 

@@ -1,5 +1,6 @@
 ---
 description: My work / Qantas Holidays
+layout: default
 filename: portfolio-qantas-holidays.md
 ---
 

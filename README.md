@@ -7,3 +7,10 @@ Creating portfolios is a massive task for designers. Due to time constraints I'v
 All the content are currently created with markdown in the [`docs`](https://github.com/olyism/oly-portfolio/tree/main/docs) folder.
 
 The next major release will feature a more usable and aesthetic frontend UI (track the progress on the [project page](https://github.com/olyism/oly-portfolio/projects/1)).
+
+## This is a prototype that uses
+
+- **HTML**
+- CSS
+  - No [Sass](http://www.sass-lang.org)
+  - Just plain CSS

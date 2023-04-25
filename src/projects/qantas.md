@@ -1,15 +1,14 @@
 ---
-title: Oly's portfolio
-summary: An product designer website
+title: Qantas Holidays
+summary: Launching a new luxury product against all odds — highly competitive market, complex systems and constraints and the pandemic
 tags:
-  - ReactJS
-  - Next.js
-  - Vercel
-  - Tailwind
-url: https://olysu.com
-github: https://github.com/QueenVivi/olys-website
-themeColor: purple
-date: 2022-11-01
+  - Product discovery
+  - UI design
+  - UX design
+  - Design system
+url: https://www.qantas.com/holidays
+themeColor: red
+date: 2020-01-01
 ---
 
 ## Introduction

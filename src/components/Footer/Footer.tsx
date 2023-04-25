@@ -11,23 +11,16 @@ const Footer: FC = () => (
         <ul className="sm:flex sm:gap-6 sm:justify-center">
           <li className="my-4">
             <ContactLink
-              href="mailto:hi@vivianxu.com"
-              label="hi@vivianxu.com"
-              icon={<FaRegEnvelope />}
-            />
-          </li>
-          <li className="my-4">
-            <ContactLink
-              href="https://linkedin.com/in/vivian-ux/"
-              label="linkedin.com/in/vivian-ux"
+              href="https://linkedin.com/in/olysu/"
+              label="linkedin.com/in/olysu"
               icon={<FaLinkedin />}
               newWindow
             />
           </li>
           <li className="my-4">
             <ContactLink
-              href="https://www.github.com/QueenVivi"
-              label="github.com/QueenViVi"
+              href="https://www.github.com/olyism"
+              label="github.com/olyism"
               icon={<FaGithub />}
               newWindow
             />

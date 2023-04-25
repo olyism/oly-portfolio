@@ -22,7 +22,7 @@ const Header: FC = () => {
               className="mr-auto my-3 font-display text-3xl text-violet-700 hover:text-violet-800"
               href="/"
             >
-              Vivian Xu
+              Oly
             </Link>
             <button
               aria-controls="nav"

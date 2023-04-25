@@ -12,10 +12,10 @@ const Header: FC = () => (
     )}
   >
     <Container>
-      <h1 className="mb-4 font-bold text-5xl">Vivian Xu</h1>
+      <h1 className="mb-4 font-bold text-5xl">Oly Su</h1>
       <p className="my-4">
-        Full-stack engineer, loves to craft clean code, build it together, and
-        ship magical experiences
+        Product designer, software engineer, product manager — full-stack
+        product person
       </p>
       <ul className="mt-8 flex flex-wrap gap-2">
         {contactLinks.map((link) => {

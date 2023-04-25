@@ -7,63 +7,55 @@ import Layout from "@/components/Layout";
 const AboutPage: NextPage = () => (
   <Layout>
     <Head>
-      <title>About - Vivian Xu</title>
+      <title>About - Oly Su</title>
     </Head>
     <Container>
       <article>
         <header className="my-8 flex flex-col gap-6 sm:flex-row sm:items-start">
-          <Image
-            alt="Vivian's profile picture"
-            className="rounded-full w-12 h-12 sm:w-auto sm:h-auto sm:order-1"
-            src="/images/profileviv.png"
-            width="150"
-            height="150"
-          />
           <div className="prose prose-stone">
-            <h1 className="mb-4">Hi, I&apos;m Vivian 👋</h1>
-            <h2 className="mt-0">Full-stack developer from Australia 🇦🇺</h2>
-            <p>
-              I love to build applications that not only look good, but also
-              delivers a great experience for customers and solve business
-              problems. Coding to me is not just a technical language, it&apos;s
-              an art to write code that&apos;s readable, maintainable and
-              re-usable, to make it easier to the team to collaborate and build
-              great products.
-            </p>
+            <h1 className="mb-4">Hi, I&apos;m Oly 🦄</h1>
+            <h2 className="mt-0">
+              Product designer, software engineer, product manager — full-stack
+              product person 💁🏻‍♂️
+            </h2>
+            <p></p>
           </div>
         </header>
         <section className="md:flex md:gap-6">
           <div className="prose prose-stone mb-12 w-full">
-            <h2>Frontend</h2>
+            <h2>Product design</h2>
             <ul>
-              <li>ReactJS</li>
-              <li>Next.js</li>
+              <li>UX design and research</li>
+              <li>UI design (Figma, Sketch + Abstract)</li>
+              <li>Design system</li>
+              <li>Rapid prototyping</li>
+              <li>Inclusive design</li>
+            </ul>
+          </div>
+          <div className="prose prose-stone mb-12 w-full">
+            <h2>Software engineering</h2>
+            <ul>
+              <li>
+                JavaScript frameworks — Next.js, ReactJS, Vue.js, AngularJS
+              </li>
               <li>TypeScript</li>
-              <li>Tailwind, bootstrap</li>
-              <li>Sass, CSS architecture</li>
-              <li>Responsive web development</li>
-              <li>Jest unit testing</li>
+              <li>Storybook</li>
+              <li>Rails</li>
+              <li>PHP</li>
+              <li>CSS — Tailwind, CSS-in-JS, CSS Modules, Sass</li>
+              <li>Unit testing</li>
               <li>Web accessibility</li>
             </ul>
           </div>
           <div className="prose prose-stone mb-12 w-full">
-            <h2>Backend</h2>
+            <h2>Product management</h2>
             <ul>
-              <li>Node.js</li>
-              <li>Prisma</li>
-              <li>Vercel</li>
-              <li>API integration</li>
-            </ul>
-          </div>
-          <div className="prose prose-stone mb-12 w-full">
-            <h2>Other skills</h2>
-            <ul>
-              <li>Git flow</li>
-              <li>Version control with Github</li>
-              <li>Agile software development</li>
-              <li>Sanity.io</li>
-              <li>Figma, Sketch, Abstract</li>
-              <li>UX design and research</li>
+              <li>Product discovery</li>
+              <li>Roadmapping</li>
+              <li>Agile delivery</li>
+              <li>Product specs</li>
+              <li>Data & tracking</li>
+              <li>Market research</li>
             </ul>
           </div>
         </section>

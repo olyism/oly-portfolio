@@ -1,36 +1,20 @@
-import {
-  FaPhone,
-  FaEnvelope,
-  FaGlobeAsia,
-  FaGithub,
-  FaLinkedin,
-} from "react-icons/fa";
+import { FaGlobeAsia, FaGithub, FaLinkedin } from "react-icons/fa";
 
 const contactLinks = [
   {
-    href: "tel:+61413551978",
-    label: "+61 413 551 978",
-    icon: <FaPhone />,
-  },
-  {
-    href: "mailto:hi@vivianxu.com",
-    label: "hi@vivianxu.com",
-    icon: <FaEnvelope />,
-  },
-  {
-    href: "https://vivianxu.com",
-    label: "vivianxu.com",
+    href: "https://www.olysu.com",
+    label: "olysu.com",
     icon: <FaGlobeAsia />,
   },
   {
-    href: "https://www.github.com/QueenVivi",
-    label: "github.com/QueenVivi",
+    href: "https://www.github.com/olyism",
+    label: "github.com/olyism",
     icon: <FaGithub />,
     newWindow: true,
   },
   {
-    href: "https://www.linkedin.con/in/vivian-ux",
-    label: "linkedin.com/in/vivian-ux",
+    href: "https://www.linkedin.con/in/olysu",
+    label: "linkedin.com/in/olysu",
     icon: <FaLinkedin />,
     newWindow: true,
   },

@@ -1,16 +1,15 @@
 ---
-title: Semipro
-summary: Building MVP web apps for parents of athletes
+title: Statistics New Zealand
+summary: Creating a new digital experience to better support citizens to make data-informed decisions
 tags:
   - ReactJS
-  - Next.js
-  - sanity.io
-  - TypeScript
-  - Tailwind
-url: https://semipro.top
-github: https://github.com/QueenVivi/go-sprout
-themeColor: amber
-date: 2023-04-10
+  - PHP
+  - UI design
+  - UX design
+  - Design system
+url: https://stats.govt.nz
+themeColor: orange
+date: 2016-09-10
 ---
 
 ## Project Overview

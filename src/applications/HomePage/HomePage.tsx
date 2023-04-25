@@ -12,7 +12,10 @@ interface Props {
 const HomePage: NextPage<Props> = ({ projects }) => (
   <>
     <Head>
-      <title>Full-stack engineer - Vivian Xu</title>
+      <title>
+        Product designer, software engineer, product manager, full-stack product
+        person - Oly Su
+      </title>
       <meta
         name="description"
         content="I'm a full-stack web engineer with a UX and product mindset. Skilled in Next.js, Tailwind CSS, ReactJS, Sass/CSS, Vercel, Jest, a11y, responsive design, Prisma, and API integration."

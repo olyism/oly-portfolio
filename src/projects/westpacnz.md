@@ -1,18 +1,14 @@
 ---
-title: Chuckroo
-summary: A blogging platform for tech professionals
+title: Westpac NZ
+summary: Creating a new mobile-first digital banking experience for the largest web re-design in the country
 tags:
-  - ReactJS
-  - Next.js
-  - TypeScript
-  - NextAuth
-  - Supabase
-  - Prisma
-  - Tailwind
-url: https://chuckroo.mel.fish
-github: https://github.com/QueenVivi/MadKangaroo
-themeColor: blue
-date: 2023-04-01
+  - PHP
+  - AngularJS
+  - Responsive web design
+  - Web analytics
+url: https://www.westpac.co.nz
+themeColor: red
+date: 2016-10-01
 ---
 
 ## Background

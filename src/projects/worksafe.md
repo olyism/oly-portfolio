@@ -1,17 +1,14 @@
 ---
-title: Fun Weather App
-summary: An engaging weather forecast app
+title: WorkSafe VIC
+summary: Improve return to work outcomes for citizens and empower inspectorates to better engage with employers
 tags:
-  - ReactJS
-  - Next.js
-  - Axios
-  - TypeScript
-  - Tailwind
-  - Jest
+  - Product discovery
+  - Vue.js
+  - UI design
+  - UX design
 url: https://funweatherapp.vercel.app/
-github: https://github.com/QueenVivi/funweatherapp
-themeColor: emerald
-date: 2023-01-01
+themeColor: yellow
+date: 2022-01-01
 ---
 
 ## Background

@@ -10,7 +10,7 @@ interface Props {
   themeColor?: ThemeColor;
 }
 
-const Button: FC<Props> = ({ label, href, themeColor = ThemeColor.Violet }) => (
+const Button: FC<Props> = ({ label, href, themeColor = ThemeColor.Stone }) => (
   <Link
     className={cn(
       "inline-block",
